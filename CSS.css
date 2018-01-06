@@ -1,0 +1,33 @@
+.center{
+  text-align:center;
+  position:absolute;
+  top:10%;
+  left:41%;
+
+}
+
+.back{
+  background-color: #458391;
+  background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+#centerElments {
+    margin: auto;
+    width: 47%;
+    padding: 20px;
+}
+
+.floating-box {
+    display: inline-block;
+    width: 190px;
+    height: 40px;
+    margin: 10px;
+    border: 3px solid #67cee5;
+  border-radius: 30%;
+  background-color:lightgray;
+   text-align: center;
+  font-size:18px;
+
+}
